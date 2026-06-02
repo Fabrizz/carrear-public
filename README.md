@@ -10,7 +10,7 @@ Probá Carrear en: https://carrear.fabriziob.com/
 
 - Todas las últimas materias optativas y planes, actualizadas en 2026.
 
-- Seguimiento de materias cursadas, a recursar, con final pendiente. Opción de agrega optativas extras a las incluidas al plan.
+- Seguimiento de materias cursadas, a recursar, con final pendiente. Opción de agregar optativas extras a las incluidas en el plan.
 
 - Puede ser usado como seguimiento de cursada, o visualizador de materias correlativas / optativas. (screenshot abajo)
 
@@ -24,18 +24,19 @@ Probá Carrear en: https://carrear.fabriziob.com/
 Mientras se lanzaron herramientas similares, estas limitan funciones detrás de un pago, Carrear busca ofrecer una experiencia completa, simple y gratuita para organizar tu carrera.
 
 ### Arquitectura
-- IA como herramienta, no vibecoding.
 - SPA generada con NEXT.js (elección debido a que necesitaba usar next.js en otro trabajo) todo generado estático en buildtime (spa, search, combinations, etc).
-- React Flow para mapas y Supabase  como backend basico para subida de planes.
+- React Flow para mapas y Supabase como backend básico para subida de planes.
 - Componentes Shadcn personalizados.
 - Cloudflare para build, cdn, metricas.
+- Resend para email.
+- IA como herramienta, no vibecoding.
 
 > [!IMPORTANT]
-> Carrear es Closed Source.
+> Carrear es Closed Source. En un futuro quizás se publique el sourcecode.
 
 [<img width="900" alt="Carrear media" src=".github/content/socialr.png" />](https://carrear.fabriziob.com)
 
-> El proyectó comenzo para el uso de mis amigos, luego pasando a ser Carrear. <br/>Idea de Athi <3 y el [genial proyecto](https://github.com/FdelMazo/FIUBA-Map) FIUBA-Map de @FdelMazo
+> El proyectó comenzó para el uso de mis amigos, luego pasando a ser Carrear. <br/>Idea de Athi <3 y el [genial proyecto](https://github.com/FdelMazo/FIUBA-Map) FIUBA-Map de @FdelMazo
 
 #
 
