@@ -1,10 +1,9 @@
-
-[<img alt="Carrear media" src=".github/content/socialr.png" />](https://carrear.fabriziob.com)
+<img alt="Fabrizz Blog" width="350" src=".github/content/logoc.png" />
 
 Con **Carrear** podés explorar tu plan de estudio de forma interactiva, registrar tu avance en la carrera, ver las correlativas de cada materia y organizar tus optativas o títulos minor
 
 
-<img alt="Fabrizz Blog" src=".github/content/screenshot.png" />
+<img alt="Carrear screenshot" width="900" src=".github/content/screenshot.png" />
 
 - Todas las facultades y planes, si tu plan todavía no esta disponible, podes subirlo desde la pestaña de [`Subir Plan`](https://carrear.fabriziob.com/uade/new)
 
@@ -18,7 +17,7 @@ Con **Carrear** podés explorar tu plan de estudio de forma interactiva, registr
 
 - 100% Gratis y sin anuncios, por siempre!
 
-<img alt="Fabrizz Blog" src=".github/content/selection.gif" />
+<img alt="Carrear seleccion de materia" width="900" src=".github/content/selection.gif" />
 
 <br/>
 Mientras se lanzaron herramientas similares, estas limitan funciones detrás de un pago, Carrear busca ofrecer una experiencia completa, simple y gratuita para organizar tu carrera.
@@ -33,7 +32,9 @@ Mientras se lanzaron herramientas similares, estas limitan funciones detrás de 
 > [!IMPORTANT]
 > Carrear es Closed Source.
 
-> El proyectó comenzo para el uso de mis amigos, luego pasando a ser Carrear. Idea de Athi <3 y el [genial proyecto](https://github.com/FdelMazo/FIUBA-Map) FIUBA-Map de @FdelMazo
+[<img width="900" alt="Carrear media" src=".github/content/socialr.png" />](https://carrear.fabriziob.com)
+
+> El proyectó comenzo para el uso de mis amigos, luego pasando a ser Carrear. <br/>Idea de Athi <3 y el [genial proyecto](https://github.com/FdelMazo/FIUBA-Map) FIUBA-Map de @FdelMazo
 
 #
 
