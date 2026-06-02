@@ -1,7 +1,8 @@
 <img alt="Fabrizz Blog" width="350" src=".github/content/logoc.png" />
 
-Con **Carrear** podés explorar tu plan de estudio de forma interactiva, registrar tu avance en la carrera, ver las correlativas de cada materia y organizar tus optativas o títulos minor
+Con **Carrear** podés explorar tu plan de estudio de forma interactiva, registrar tu avance en la carrera, ver las correlativas de cada materia y organizar tus optativas o títulos minor.
 
+Probá Carrear en: https://carrear.fabriziob.com/
 
 <img alt="Carrear screenshot" width="900" src=".github/content/screenshot.png" />
 
